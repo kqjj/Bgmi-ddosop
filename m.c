@@ -178,7 +178,7 @@ int main(int argc, char *argv[]) {
     time_t expiry_time_utc = mktime(&expiry_time);
 
     if (difftime(expiry_time_utc, current_time_utc) <= 0) {
-        printf("🚫 This tool has expired. Please contact @DONATE_OWNER_BOT for renewal. 🚫\n");
+        printf("🚫 This tool has expired. Please contact @Mr_ArmanXd for renewal. 🚫\n");
         return 1;
     }
 

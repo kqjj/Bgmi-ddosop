@@ -96,7 +96,7 @@ void *crazy_animation(void *arg) {
     time_t endtime = time(NULL) + attack_duration;
 
     printf("*****************************************\n");
-    printf("🔥 TELEGRAM CHANNEL: @Arman_Cardar 🔥\n");
+    printf("🔥 TELEGRAM CHANNEL: @ArmanCardar 🔥\n");
     printf("💰 DM TO BUY : @Mr_ArmanXd 💰\n");
     printf("🛑 STOP ATTACK / NEW ATTACK PRESS: Q 🛑\n");
     printf("⏰ Expiry Date (IST): %02d-%02d-%04d %02d:%02d:%02d\n",

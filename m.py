@@ -12,9 +12,9 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from threading import Thread
 
 loop = asyncio.get_event_loop()
-TOKEN = '8049040389:AAEqyFUHDXsfJgTL_pRb48NQK9XwOnBeERY'
+TOKEN = '7376682624:AAFuZXujuqAtJaMB8jdZRTCHif8RpwbcH3Y'
 MONGO_URI = 'mongodb+srv://Arman121:Arman121@arman.ji8gqxd.mongodb.net/?retryWrites=true&w=majority'
-CHANNEL_ID = -1002357119943
+CHANNEL_ID = -1002194615216
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
